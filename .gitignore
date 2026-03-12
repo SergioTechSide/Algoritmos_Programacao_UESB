@@ -1,0 +1,11 @@
+# Ignorar pastas de compilação do NetBeans/Maven
+target/
+nbproject/private/
+build/
+dist/
+nbdist/
+.nb-gradle/
+
+# Arquivos de log e temporários
+*.log
+*.class
